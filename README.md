@@ -4,13 +4,10 @@ Estudante de Tecnologia da Informação com paixão por aprendizado e desenvolvi
 
 📘 Cursos: Desenvolvedor fullstack
 
-🔭 Projetos em andamento: [link para projetos]
-
 💡 Interesses: Desenvolvimento Full Stack, Java, javascript e banco de dados
 
 📧 Contato: fernandoarrudalucas@gmail.com
 
-🛠 Ferramentas: [ferramentas e tecnologias que usa]
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
