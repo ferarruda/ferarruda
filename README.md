@@ -4,7 +4,7 @@
 
 💻 Estudante de Ciência da Computação
 
-🚀 Em busca da primeira oportunidade em Tecnologia, com foco em Ciência de Dados, Inteligência Artificial e Desenvolvimento de Software.
+🚀 Em busca da primeira oportunidade em Tecnologia, com foco em Ciência de Dados, Inteligência Artificial, Desenvolvimento Web e Software.
 
 ### Tecnologias e Ferramentas
 
